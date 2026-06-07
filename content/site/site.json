@@ -1,0 +1,255 @@
+{
+  "name": "Efemena Derek Idjai",
+  "title": "Senior Systems Programmer | Full‑Stack & AI Engineer | Cybersecurity Advocate",
+  "location": "Jos, Plateau State, Nigeria",
+  "email": "derekidjai@gmail.com",
+  "phone": "+234-8136844632",
+  "avatar": "/uploads/avatars/gray.png",
+  "summary": "Technologist and social impact leader with roots in sales, insurance, and market research. Self‑taught programmer since 2005, building 50+ web apps, integrating AI for 20% revenue lifts, and conducting cybersecurity audits (GDPR). Merges social work background with ethical tech.",
+  "experience": [
+    {
+      "role": "Senior Full‑Stack Developer & Cybersecurity Advocate",
+      "company": "Nexus Web Services (Owner/Executive)",
+      "years": "2005 – Present",
+      "yearStart": 2005,
+      "yearEnd": 2025,
+      "highlights": [
+        "50+ web apps (PHP, Python, JS) – improved load times by 35%",
+        "Secure DB architectures – encryption, access controls, breach risk reduction",
+        "AI integration: predictive analytics → +20% client revenue",
+        "GDPR compliance audits & secure coding training"
+      ],
+      "tags": [
+        "fullstack",
+        "cybersecurity",
+        "ai"
+      ]
+    },
+    {
+      "role": "Training Lead / Co‑Founder",
+      "company": "5am Technologies, Jos",
+      "years": "2004 – Present",
+      "yearStart": 2004,
+      "yearEnd": 2025,
+      "highlights": [
+        "Tech training & curriculum design for aspiring devs",
+        "Community cybersecurity workshops"
+      ],
+      "tags": [
+        "training",
+        "community"
+      ]
+    },
+    {
+      "role": "Market Research Assistant",
+      "company": "Market Advantage Int., Lagos",
+      "years": "1998 – 2000",
+      "yearStart": 1998,
+      "yearEnd": 2000,
+      "highlights": [
+        "Data sourcing, feasibility studies, marketing strategy"
+      ],
+      "tags": [
+        "research"
+      ]
+    },
+    {
+      "role": "Client Services Consultant",
+      "company": "Refuge Insurance Company, Lagos",
+      "years": "1997 – 1998",
+      "yearStart": 1997,
+      "yearEnd": 1998,
+      "highlights": [
+        "Market share strategy, consumer rapport, life/maritime insurance"
+      ],
+      "tags": [
+        "client-services"
+      ]
+    },
+    {
+      "role": "Sales Promotion/Marketing Rep",
+      "company": "Nigerian Breweries Plc, Warri",
+      "years": "1994 – 1997",
+      "yearStart": 1994,
+      "yearEnd": 1997,
+      "highlights": [
+        "Merchandising, point‑to‑point sales, distributor enablement",
+        "Started at age 17 as a merchandiser"
+      ],
+      "tags": [
+        "sales",
+        "marketing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. Social Work & Administration",
+      "school": "University of Jos",
+      "year": 2010
+    },
+    {
+      "degree": "Diploma in Law",
+      "school": "University of Jos",
+      "year": 2001
+    },
+    {
+      "degree": "Senior School Certificate (O/Level)",
+      "school": "Ugborikoko Secondary School, Warri",
+      "year": 1995
+    },
+    {
+      "degree": "First School Leaving Certificate",
+      "school": "Fountain Pry School, Lagos",
+      "year": 1988
+    }
+  ],
+  "educationNote": "Attended Command Secondary School, Abakaliki (1988–1992). Due to family relocation, completed secondary education at Ugborikoko Secondary School, Warri (1995).",
+  "skills": [
+    {
+      "category": "Frontend/Backend",
+      "items": [
+        "PHP (Laravel, WP)",
+        "Python (Django, Flask)",
+        "JavaScript",
+        "MERN",
+        "Next.js",
+        "Tanstack"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Schema optimization"
+      ]
+    },
+    {
+      "category": "AI/ML",
+      "items": [
+        "TensorFlow",
+        "scikit‑learn",
+        "NLP",
+        "Predictive modeling"
+      ]
+    },
+    {
+      "category": "Cybersecurity",
+      "items": [
+        "Secure coding",
+        "AES/RSA encryption",
+        "OAuth",
+        "Vulnerability scanning"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "PHP Developer Certification (Zend)",
+      "year": 2009,
+      "status": "earned"
+    },
+    {
+      "name": "Python for Data Science & AI (Oracle/MIT)",
+      "year": 2020,
+      "status": "earned"
+    },
+    {
+      "name": "OCI AI Foundations Associate",
+      "year": null,
+      "status": "earned"
+    },
+    {
+      "name": "OCI Data Science Professional",
+      "year": null,
+      "status": "earned"
+    },
+    {
+      "name": "OCI Architect Associate",
+      "year": null,
+      "status": "in_view"
+    },
+    {
+      "name": "CISM (Certified Information Security Manager)",
+      "year": null,
+      "status": "in_view"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Custom CMS with secure APIs",
+      "tech": "PHP, MySQL, OAuth",
+      "impact": "Automated workflows saved 15+ hrs/week",
+      "tags": [
+        "fullstack",
+        "cybersecurity"
+      ]
+    },
+    {
+      "title": "AI resource allocation for nonprofits",
+      "tech": "Python, TensorFlow, Pandas",
+      "impact": "Improved outreach efficiency",
+      "tags": [
+        "ai",
+        "social-impact"
+      ]
+    },
+    {
+      "title": "GDPR compliance & encryption audit",
+      "tech": "AES‑256, vulnerability scanners",
+      "impact": "Zero breaches post‑implementation",
+      "tags": [
+        "cybersecurity"
+      ]
+    }
+  ],
+  "interests": [
+    "Cybersecurity for nonprofits",
+    "AI for social impact",
+    "Open source",
+    "Mentoring"
+  ],
+  "languages": [
+    "English",
+    "Yoruba",
+    "Hausa"
+  ],
+  "referees": [
+    {
+      "name": "Murtala Abdullahi",
+      "org": "Smartweb Nigeria",
+      "phone": "07032777744"
+    },
+    {
+      "name": "Nyabam Emmanuel",
+      "org": "Clapai Orphanage, Jos",
+      "phone": ""
+    },
+    {
+      "name": "Prof. Bukola Bolaji",
+      "org": "Federal University Oye‑Ekiti",
+      "phone": "08109232xxxx"
+    }
+  ],
+  "social": [
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/efemena-idjai/"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/derekidjai"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/derekidjai"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:derekidjai@gmail.com"
+    }
+  ]
+}

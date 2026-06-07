@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Shield: rounded hexagon in slate -->
+  <path
+    d="M32 4 L56 16 L56 36 C56 48 45 56 32 60 C19 56 8 48 8 36 L8 16 Z"
+    fill="#0f172a"
+    stroke="#0f172a"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Stylized "E" + "i" monogram in emerald -->
+  <g fill="#10b981">
+    <!-- E vertical bar -->
+    <rect x="20" y="18" width="4" height="28" rx="1.5" />
+    <!-- E top arm -->
+    <path d="M20 18 H36 V22 H20 Z" />
+    <!-- E middle arm -->
+    <path d="M20 30 H32 V34 H20 Z" />
+    <!-- E bottom arm (curved to suggest C/i dot) -->
+    <path d="M20 42 H38 C40 42 40 46 38 46 H20 Z" />
+    <!-- "i" stem -->
+    <rect x="40" y="28" width="3.5" height="18" rx="1.5" />
+    <!-- "i" dot -->
+    <circle cx="41.75" cy="22" r="3" />
+  </g>
+
+  <!-- Diagonal circuit chain: nodes + connecting line -->
+  <g stroke="#10b981" stroke-width="2.4" stroke-linecap="round">
+    <line x1="14" y1="52" x2="54" y2="14" />
+  </g>
+  <g fill="#10b981">
+    <circle cx="14" cy="52" r="3.4" />
+    <circle cx="24" cy="44" r="2.6" />
+    <circle cx="38" cy="28" r="3.2" />
+    <circle cx="46" cy="20" r="2.4" />
+    <circle cx="54" cy="14" r="3.4" />
+  </g>
+</svg>
